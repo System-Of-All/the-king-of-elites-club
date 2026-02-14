@@ -4,7 +4,7 @@
 A System Of All Initiative  
 Created by Igor Zijan
 
----
+
 
 ## Executive Overview
 
@@ -20,7 +20,7 @@ The collection is part of the broader System Of All ecosystem and represents a s
 
 This project is not merely an NFT release. It is a narrative and structural component within a larger digital governance framework.
 
----
+
 
 ## Founder Context
 
@@ -34,7 +34,7 @@ The project is authored by Igor Zijan, whose work has focused on:
 
 His initiatives have addressed topics including neurological health incidents, systemic technological risk, and global digital infrastructure alignment.
 
----
+
 
 ## Public Legislative Context: Havana Act
 
@@ -53,7 +53,7 @@ The King Of Elites Club incorporates themes of:
 
 The NFT collection does not claim authorship of legislation, operational intelligence authority, or government affiliation. It symbolically reflects the broader societal movement toward acknowledgment and structured response.
 
----
+
 
 ## Conceptual Foundation
 
@@ -67,7 +67,7 @@ Each NFT in the 1001 collection represents a distinct elite archetype defined by
 
 The collection serves as a symbolic recognition framework for individuals aligned with conscious innovation and structured progress.
 
----
+
 
 ## Collection Specifications
 
@@ -85,7 +85,7 @@ Each NFT contains:
 - Symbolic institutional alignment attributes
 - Digital-era resilience indicators
 
----
+
 
 ## Artistic Direction
 
@@ -99,7 +99,7 @@ The visual identity incorporates:
 
 The artwork reflects the tension and responsibility of leadership within complex global systems.
 
----
+
 
 ## Ecosystem Integration
 
@@ -119,7 +119,7 @@ The NFTs may function as:
 
 All functional extensions remain subject to ecosystem governance decisions.
 
----
+
 
 ## Roadmap (Strategic Phases)
 
@@ -139,7 +139,7 @@ All functional extensions remain subject to ecosystem governance decisions.
 - Recognition framework deployment
 - Digital identity enhancement modules
 
----
+
 
 ## What This Project Is
 
@@ -149,7 +149,7 @@ All functional extensions remain subject to ecosystem governance decisions.
 - A structured component of the System Of All ecosystem
 - An artistic and conceptual project
 
----
+
 
 ## What This Project Is Not
 
@@ -161,7 +161,7 @@ All functional extensions remain subject to ecosystem governance decisions.
 
 The project remains a public digital initiative operating within open-source governance structures.
 
----
+
 
 ## Governance & Transparency
 
@@ -174,7 +174,7 @@ This repository adheres to:
 
 No major changes are executed without review.
 
----
+
 
 ## Legal & Compliance Position
 
@@ -187,7 +187,7 @@ Ownership of an NFT does not automatically confer:
 
 Licensing terms are defined separately within the LICENSE and NFT terms documentation.
 
----
+
 
 ## Community Invitation
 
@@ -200,7 +200,23 @@ The King Of Elites Club invites individuals who align with:
 
 This initiative recognizes excellence not as status, but as responsibility.
 
----
+
 
 ## Repository Structure
+
+/
+├── artwork/                # NFT character assets and visual resources
+├── metadata/               # JSON metadata files for the 1001 NFTs
+├── smart-contract/         # ERC-721 / ERC-1155 implementation
+├── tokenomics/             # Utility model and ecosystem interaction docs
+├── documentation/          # Concept, vision, architecture notes
+├── governance/             # Governance rules and constitutional alignment
+├── faq/                    # Frequently Asked Questions
+├── website/                # Frontend and public-facing content
+├── LICENSE                 # Licensing terms
+├── README.md               # Project overview
+├── CONTRIBUTING.md         # Contribution guidelines
+├── CODE_OF_CONDUCT.md      # Community standards
+└── SECURITY.md             # Vulnerability reporting policy
+
 
